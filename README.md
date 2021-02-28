@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Platon
-- 👀 I’m interested in Full Stack Cloud Developing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... telegram @platinna or https://join.skype.com/invite/pAGJ4Qh4XEzu
