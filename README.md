@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Platon
 - 🌱 I’m currently learning C++
+- 👀 I’m interested in the shortest path problem in graphs
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... telegram @platinna or https://join.skype.com/invite/pAGJ4Qh4XEzu
 
