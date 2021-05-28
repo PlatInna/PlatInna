@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Platon
-- 🌱 I’m currently learning C++
-- 👀 I’m interested in Graph Databases and the shortest path problem in graphs
 - 📫 How to reach me ... telegram @platinna or https://join.skype.com/invite/pAGJ4Qh4XEzu
 
 <!---
