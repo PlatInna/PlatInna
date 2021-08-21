@@ -17,9 +17,9 @@ Hands-on experience: CMake + Protobuf, ANTLR 4.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Feb 2021 "Python Data Structures"  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Feb 2021 "Programming for Everybody (Getting Started with Python)"  
   
-▪ Apr 2021 Coursera Certificate "Developing Cloud Native Applications", IBM  
-▪ Mar 2021 Coursera Certificate "Introduction to Cloud Development with HTLM, CSS, JavaScript", IBM  
-▪ Feb 2021 Coursera Certificate "Introduction to Cloud Computing", IBM  
+▪ Apr 2021 Coursera Certificate ["Developing Cloud Native Applications"](https://www.coursera.org/account/accomplishments/certificate/R6M853FJNUK2), IBM  
+▪ Mar 2021 Coursera Certificate ["Introduction to Cloud Development with HTLM, CSS, JavaScript"](https://www.coursera.org/account/accomplishments/certificate/BG2VEPW865A3), IBM  
+▪ Feb 2021 Coursera Certificate ]"Introduction to Cloud Computing"](https://www.coursera.org/account/accomplishments/certificate/FPLY96QD5HX2), IBM  
 
 
 
