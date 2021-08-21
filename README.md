@@ -1,4 +1,4 @@
-MS Visual Studio 2019, MSVC /std:c++latest  
+Use MS Visual Studio 2019, MSVC /std:c++latest  
 Hands-on experience: CMake + Protobuf, ANTLR 4.
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
