@@ -1,6 +1,12 @@
-Use MS Visual Studio 2019, MSVC /std:c++latest  
-Hands-on experience: CMake + Protobuf, ANTLR 4.  
-All my projects are learning problems I solved as part of the passed online courses as follow:
+Hi! My name is Platon Yarkin. Self-taught enthusiast of C++.  
+I would be happy to help with unit testing of cpp code.  
+Feel free to leave a comment or contact me through: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or [Telegram](https://t.me/platinna)
+
+Tools: MS Visual Studio 2019, MSVC /std:c++latest  
+Hands-on experience: SVG, CMake + Protobuf, ANTLR 4, AST, parsing JSON and INI.  
+Fundamentals: Phyton 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
+
+All my projects are learning problems I solved as part of passed online courses as follow:
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including:  
