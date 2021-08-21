@@ -2,8 +2,7 @@ MS Visual Studio 2019, MSVC /std:c++latest
 
 Hands-on experience: CMake + Protobuf, ANTLR 4.
 
-▪ Aug 2021 ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,
-
+▪ Aug 2021 ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including:  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Aug 2021 “C++ Development Fundamentals: Black Belt”
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ Mar 2021 “C++ Development Fundamentals: Brown Belt”  
