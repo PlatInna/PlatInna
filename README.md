@@ -5,5 +5,8 @@
 PlatInna/PlatInna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+\begin{center} <br>
+\includegraphics[width=8in]{myFirstAlignment2.pdf} <br>
+\end{center}
 
-![cpp](https://www.coursera.org/api/certificate.v1/pdf/HT6LPG43WN67)
+![cpp](https://www.coursera.org/api/certificate.v1/pdf/HT6LPG43WN67.pdf)
