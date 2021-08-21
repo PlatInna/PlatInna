@@ -4,7 +4,7 @@ Feel free to contact me through: [Skype](https://join.skype.com/invite/pAGJ4Qh4X
 
 Tools: MS Visual Studio 2019, MSVC /std:c++latest  
 Hands-on experience: SVG, CMake + Protobuf, ANTLR 4, AST, parsing JSON and INI.  
-Fundamentals: Phyton 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
+Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
 
 All my projects are learning problems I solved as part of passed online courses as follow:
 
