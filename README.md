@@ -10,9 +10,9 @@ Hands-on experience: CMake + Protobuf, ANTLR 4.
   
   ▪ Mar 2021 “C++ Development Fundamentals: Brown Belt”
   
-  ▪ Jul 2020 “C++ Development Fundamentals: Red Belt”'\n'
-  ▪ May 2020 “C++ Development Fundamentals: Yellow Belt”
-  ▪ Mar 2020 “C++ Development Fundamentals: White Belt”
+  ▪ Jul 2020 “C++ Development Fundamentals: Red Belt”  
+  ▪ May 2020 “C++ Development Fundamentals: Yellow Belt”  
+  ▪ Mar 2020 “C++ Development Fundamentals: White Belt”  
 
 ▪ Apr 2021 ["Python for Everybody"]() University of Michigan,
   including:
