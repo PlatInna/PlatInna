@@ -6,4 +6,4 @@ PlatInna/PlatInna is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![cpp](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67)
+[cpp](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67)
