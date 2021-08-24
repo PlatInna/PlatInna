@@ -1,6 +1,6 @@
 Hi! My name is Platon Yarkin. Self-taught enthusiast of C++.  
 I would be happy to help with unit testing of cpp code.  
-Feel free to contact me through: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or [Telegram](https://t.me/platinna)
+Feel free to contact me: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or [Telegram](https://t.me/platinna)
 
 Tools: MS Visual Studio 2019, MSVC /std:c++latest  
 Hands-on experience: SVG, CMake + Protobuf, ANTLR 4, AST, parsing JSON and INI.  
