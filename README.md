@@ -3,7 +3,7 @@ I would be happy to help with unit testing of cpp code.
 Feel free to contact me: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or [Telegram](https://t.me/platinna)
 
 Tools: MS Visual Studio 2019, MSVC /std:c++latest  
-Hands-on experience: SVG, CMake + Protobuf, ANTLR 4, AST, parsing JSON, XML and INI.  
+Hands-on experience: CMake + Protobuf, ANTLR 4, parsing SVG, JSON, XML and INI.  
 Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
 
 All my repos are learning problems I solved as part of passed online courses as follow:
