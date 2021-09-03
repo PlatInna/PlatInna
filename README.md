@@ -9,7 +9,7 @@ Hands-on experience:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 1990 - 1995 dBASE II, Clipper.   
 Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
 
-All my repos are learning problems I solved as part of passed online courses as follow:
+All my repos are study assignments I solved as part of passed online courses as follow:
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including:  
