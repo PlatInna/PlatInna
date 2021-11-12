@@ -9,6 +9,7 @@ Hands-on experience:
 Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
 
 All my repos are study assignments I solved as part of passed online courses as follow:
+
 ▪ Nov 2021 ["CPE – C++ Certified Entry-Level Programmer (CPE-20-01)"](https://verify.openedg.org/?id=1U1t.UxoD.gwmw)
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
