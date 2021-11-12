@@ -5,11 +5,11 @@ Feel free to contact me: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or 
 Tools: MS Visual Studio 2019, MSVC /std:c++latest  
 Hands-on experience:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 2020 - 2021 CMake + Protobuf, ANTLR 4, parsing SVG, JSON, XML and INI.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 1996 - 2005 Visual FoxPro, Relational Databases.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 1990 - 1995 dBASE II, Clipper.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 1990 - 2005 RDBMS Visual FoxPro,  dBASE II, Clipper.  
 Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
 
 All my repos are study assignments I solved as part of passed online courses as follow:
+▪ Nov 2021 ["CPE – C++ Certified Entry-Level Programmer (CPE-20-01)"](https://verify.openedg.org/?id=1U1t.UxoD.gwmw)
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including:  
