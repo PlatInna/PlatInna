@@ -10,9 +10,8 @@ Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IB
 
 All my repos are study assignments I solved as part of passed online courses as follow:
 
-▪ Nov 2021 ["CPE – C++ Certified Entry-Level Programmer (CPE-20-01)"](https://verify.openedg.org/?id=1U1t.UxoD.gwmw)
-
-▪ Oct 2021 ["C++ Course Certificate"](https://www.sololearn.com/certificates/course/en/23429434/1051/landscape/png)
+▪ Nov 2021 ["CPE – C++ Certified Entry-Level Programmer (CPE-20-01)"](https://verify.openedg.org/?id=1U1t.UxoD.gwmw)  
+▪ Oct 2021 ["C++ Course Certificate"](https://www.sololearn.com/certificates/course/en/23429434/1051/landscape/png)  
 
 ▪ Aug 2021 Coursera Specialization Certificate ["Art of modern C++ Development"](https://www.coursera.org/account/accomplishments/specialization/certificate/HT6LPG43WN67) Moscow Institute of Physics and           Technology, Yandex,  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;including:  
