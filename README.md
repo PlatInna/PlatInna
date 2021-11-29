@@ -4,9 +4,9 @@ Feel free to contact me: [Skype](https://join.skype.com/invite/pAGJ4Qh4XEzu) or 
 
 Tools: MS Visual Studio 2019, MSVC /std:c++latest  
 Hands-on experience:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 2020 - 2021 C++ unit testing, CMake + Protobuf, ANTLR 4, parsing SVG, JSON, XML, INI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 2020 - 2021 C++ unit testing, CMake + Protobuf, parsing SVG, JSON, XML, INI.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ 1990 - 2005 RDBMS Visual FoxPro,  dBASE II, Clipper.  
-Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, IBM Cloud.  
+Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, ANTLR 4, IBM Cloud.  
 
 All my repos are study assignments I solved as part of passed online courses as follow:
 
