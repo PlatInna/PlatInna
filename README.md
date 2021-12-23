@@ -10,6 +10,7 @@ Fundamentals: Python 3, SQL(DB Browser for SQLite), HTML5, CSS, Ubuntu + gcc, AN
 
 All my repos are study assignments I solved as part of passed online courses as follow:
 
+▪ Dec 2021 ["CPA – C++ Certified Associate Programmer (CPA-21-02)"](https://verify.openedg.org/?id=uopJ.Bpty.4F4R)  
 ▪ Nov 2021 ["CPE – C++ Certified Entry-Level Programmer (CPE-20-01)"](https://verify.openedg.org/?id=1U1t.UxoD.gwmw)  
 ▪ Oct 2021 ["C++ Course Certificate"](https://www.sololearn.com/certificates/course/en/23429434/1051/landscape/png)  
 
